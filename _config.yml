@@ -1,4 +1,3 @@
-layout_spectrum: 0.6149449392687529
 typography_spectrum: 0.5422439365647733
 color:
   brandStrength: 0.6901817107573152
@@ -11,4 +10,10 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
+layout_spectrum: 0.6149449392687529
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/a876517a-4c72-4717-87e9-d4428138ef17.jpg
 name: Prozessor Werbung
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/4696c636-e0e1-49c7-ba66-151d22df9894.ico
+title: Prozessor Werbung
