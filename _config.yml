@@ -1,16 +1,16 @@
-typography_spectrum: 0.5422439365647733
+layout_spectrum: 0.7330268290825188
+typography_spectrum: 0.5700835259631276
 color:
-  brandStrength: 0.6901817107573152
-  lightness: 0.9194661539513618
-  saturation: 0.12779679335653782
-  rhythmicContrast: 0.3491835587192327
+  brandStrength: 0.5341946424450725
+  lightness: 0.416601674631238
+  saturation: 0.36309546628035605
+  rhythmicContrast: 0.49904422741383314
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-layout_spectrum: 0.6149449392687529
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/a876517a-4c72-4717-87e9-d4428138ef17.jpg
 name: Prozessor Werbung
